@@ -94,8 +94,6 @@
   });
   $(".testimonial .slider-nav").css({ position: "relative", height: "160px" });
 
-  // Blogs carousel
-
   // Portfolio isotope and filter
   let portfolioIsotope = $(".portfolio-container").isotope({
     itemSelector: ".portfolio-item",
