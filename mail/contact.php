@@ -26,7 +26,7 @@ $mail->isSMTP();
 $mail->Host = 'smtp.ionos.fr';
 $mail->SMTPAuth = true;
 $mail->Username = 'contact@bilel-aoun.me';
-$mail->Password = 'Bilel22580928';
+$mail->Password = '********';
 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
 $mail->Port = 465;
 
