@@ -3,9 +3,7 @@
   padding: 0;
   margin: 0;
 }
-/* html {
-  scroll-behavior: smooth;
-} */
+
 body {
   color: #666666;
   background: #dddddd;
@@ -375,7 +373,7 @@ a:focus {
 }
 
 .carousel .animated {
-  /* -webkit-animation-duration: 1.5s; */
+ 
   animation-duration: 1.5s;
 }
 
